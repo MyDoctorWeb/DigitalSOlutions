@@ -1,0 +1,174 @@
+.especialidades {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    text-align:left;
+}
+ tr,td {
+ background-color: white;
+border: 2px solid black;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 10px;
+}
+.new{
+    border-style: none;
+   background-color: #66c00b;
+}
+.headert{
+    background-color: greenyellow;
+    color: black;
+    border: 2px solid black;
+}
+
+.estudios{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    text-align: center;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+}
+.Horarios {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    text-align: center;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+}
+.Medico {
+    font-size:12px;
+    padding:10px ;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    text-align: center;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+}
+.Paciente {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    text-align: center;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+}
+.Prov{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    text-align: center;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+}
+.Covi{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    text-align: center;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+}
+.tabu{
+    background-color: rgb(211, 202, 202);
+border: 2px solid black;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 10px;
+
+margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    text-align:left;
+}
+.headertt{
+    background-color: rgb(192, 189, 189);
+    color: black;
+    border: 3px solid black;
+}
+.headerttt{
+    background-color: white;
+    color: black;
+}
+.neww{
+    text-decoration: none;
+}
+.neww a:hover{
+    text-decoration: none;
+}
+.servicios{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-collapse: collapse;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+}
+.form_servicio{
+    max-width: 100%;
+    padding: 10px;
+    
+}
+
+
+.formulario{
+    background-color: rgb(123, 204, 144);
+    border: 100px;
+}
+
+.formulario td,th{
+    background-color: rgb(123, 204, 144);
+    border: 0vmax;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    text-align: center;
+    
+
+}
+
+.botons {
+    width: 100%;
+    background:rgb(63, 221, 221);
+    border: none;
+    padding: 12px;
+    color: rgb(0, 0, 0);
+    margin: 16px 0;
+    font-size: 16px;
+}
+
+.label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Ayuda {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    text-align:left;
+}
+.Ayuda th.v{
+    background-color: #66c00b;
+   
+}
+.Ayuda th.q{
+    background-color: #66c00b;
+    cursor: pointer;  
+}

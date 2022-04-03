@@ -1,0 +1,17 @@
+.pie2{
+    align-items: center;
+    width: 100%;
+    background-color: rgb(127, 255, 133);
+    font-size: 22px;
+}
+.grupo1{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+.grupo2{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    font-size: 10px;
+}

@@ -1,0 +1,93 @@
+h2{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 5px;
+    padding-top: 20px;
+}
+select{
+    color: black;
+    font-size: 14px;
+    padding: 5px 5px 5px 5px;
+    display: block;
+    width: 100%;
+}
+input{
+    color: black;
+    font-size: 12px;
+    padding: 5px 5px 5px 5px;
+    display:block ;
+    width: 100%;
+}
+label{
+    color: black;
+    font-size: 19px;
+    left: 5px;
+    top: 10px;
+}
+.barra{
+    position: relative;
+    display: block;
+    width: 100%;
+}
+
+.form_paciente{
+    padding: 25px;
+}
+#b{
+    background: rgb(19, 247, 49);
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+#C{
+    background: red;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+.c a:hover{
+    font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+letter-spacing: 0.5px;
+color: aquamarine;
+background-color: cadetblue;
+}
+
+.b a:hover{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    letter-spacing: 0.5px;
+    color: aquamarine;
+    background-color: cadetblue;
+}
+.formP{
+    width: 70%;
+    margin: auto;
+    border-radius: 6px;
+    padding: 3%;
+    background-color: rgb(160, 218, 189);
+    
+}
+.formP .Input{
+    width: 100%;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    font-size: 12px;
+    padding: 6px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+}
+
+td{
+    border: hidden;
+}

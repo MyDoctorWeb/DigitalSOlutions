@@ -1,0 +1,214 @@
+*{
+	margin: auto;
+	padding: auto;
+	box-sizing: border-box;
+	animation: 0;
+}
+
+body{
+    background-position: center;
+ background-repeat: no-repeat;
+ background-size: 330vh;
+}
+
+.se_div a :hover{
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+letter-spacing: 0.5px;
+color: aquamarine;
+background-color: cadetblue;
+}
+.se{
+    max-width: 90%;
+    margin: auto;
+    overflow: hidden;
+
+}
+
+.form-register{
+width: 400px;
+background-color:gray;
+padding: 30px;
+margin: auto;
+margin-top: 100px;
+border-radius: 4px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: white;
+box-shadow: 7px 13px 37px #000;
+}
+.form-register h4{
+font-size: 22px;
+margin-bottom: 20px;
+}
+.controls{
+width: 100%;
+background-color:cornsilk;
+padding: 10px;
+border-radius: 4px;
+margin-bottom: 16px;
+border: 1px solid #111;
+font-family: 'Courier New', Courier, monospace;
+font-size: 18px;
+color: black;
+}
+
+.form-register p {
+height: 40px;
+text-align: center;
+font-size: 18px;
+}
+.form-register a{
+color: rgb(245, 245, 245);
+text-decoration: none;
+}
+.form-register a:hover{
+color: whitesmoke;
+text-decoration: underline;
+}
+.form-register .botons {
+width: 100%;
+background:aqua;
+border: none;
+padding: 12px;
+color: black;
+margin: 16px 0;
+font-size: 16px;
+cursor: pointer;
+}
+h1
+{
+font-family: sans-serif;
+font-size: 45px;
+text-align: center;
+color: rgb(0, 0, 0);
+letter-spacing: 2px;
+padding: 20px;
+}
+h2{
+    font-family: sans-serif;
+text-align: center;
+color: rgb(0, 0, 0);
+letter-spacing: 2px;
+padding: 20px;
+}
+.boton
+{
+	text-decoration: none;
+width: 100%;
+padding: 10px;
+font-family: 'Courier New', Courier, monospace;
+font-size: 18px;
+color: black;
+}
+
+.boton{
+    margin: auto;
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 100%;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #86c584;
+    border-radius: 5px;
+    border: 2px solid #5a595a;
+  }
+.expediente {
+    max-width: 90%;
+    margin: auto;
+    overflow: hidden;
+}
+.expediente a {
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    letter-spacing: 0.5px;
+    color: white;
+    background-color: green;
+}
+.expediente img {
+    
+    display:block;
+}
+.expediente a:hover {
+    background-color: aqua;
+    color: black;
+}
+
+.mantener {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+tr,th {
+    border: 2px solid green;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+.medicot {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+ td,th {
+border: 2px solid black;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 10px;
+}
+.headermedico{
+    background-color: greenyellow;
+    color: black;
+}
+.pacientet {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+.headerpac{
+    background-color: greenyellow;
+    color: black;
+}
+
+.boton {
+    margin: 2px;
+}
+.fotop{
+    margin: none;
+    margin-left: 80%;
+    margin-right: none;
+}
+
+.pief{
+    text-align: right;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 0.5px;
+    color: green;
+    font-size: 18px;
+}
+.ig{
+    border-radius: 5px;
+}
+.migajas{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 2px;
+}
+.agregar{
+    margin-left:150px;
+    
+}
+.barra{
+    position: relative;
+    display: block;
+    width: 100%;
+}
+
+.agregar{
+    margin-left:150px;
+    
+}
